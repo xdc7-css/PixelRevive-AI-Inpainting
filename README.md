@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/pixelrevive_logo.svg" alt="PixelRevive Logo" width="130" height="130" />
+<img src="./assets/pixelrevive_logo.svg" alt="PixelRevive Logo" width="180" />
 
 # PixelRevive
 ### **AI-Driven Image Restoration & Intelligent Inpainting**
