@@ -1,10 +1,11 @@
 torch>=2.0.0
+torchvision
 opencv-python
 diffusers==0.27.2
 huggingface_hub==0.25.2
-accelerate
+accelerate==1.15.0
 peft==0.7.1
-transformers>=4.39.1
+transformers==4.40.2
 safetensors
 controlnet-aux==0.0.3
 fastapi==0.108.0
@@ -21,5 +22,5 @@ omegaconf
 easydict
 gradio==4.21.0
 typer-config==1.4.0
-
-Pillow==9.5.0 # for AnyText
+einops
+timm
