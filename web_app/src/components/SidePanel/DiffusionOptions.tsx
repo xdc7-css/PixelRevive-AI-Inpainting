@@ -798,7 +798,6 @@ const DiffusionOptions = () => {
           <LabelTitle
             text="Match histograms"
             toolTip="Match the inpainting result histogram to the source image histogram"
-            url="https://github.com/Sanster/lama-cleaner/pull/143#issuecomment-1325859307"
           />
           <Switch
             id="match-histograms"

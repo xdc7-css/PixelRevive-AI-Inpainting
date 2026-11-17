@@ -132,18 +132,17 @@ export function About() {
             </div>
           </div>
 
-          {/* Academic Attribution & Open Source Notice */}
-          <div className="bg-[#121217] border border-[#202028] rounded-xl p-3.5 text-xs text-[#A69B91] space-y-1.5">
+          {/* Licensing & Open-Source Compliance */}
+          <div className="bg-[#121217] border border-[#202028] rounded-xl p-3.5 text-xs text-[#A69B91] space-y-1">
             <div className="flex items-center gap-1.5 font-medium text-[#D8CBBF]">
               <ShieldCheck className="w-4 h-4 text-[#8B263E]" />
-              Upstream Attribution &amp; Academic Notice
+              Licensing &amp; Open-Source Compliance
             </div>
             <p className="leading-relaxed">
-              This academic software is customized and developed on top of the open-source{" "}
-              <span className="text-[#F5EFEB] font-medium">IOPaint</span> framework by Sanster,
-              licensed under the Apache License 2.0. Neural weights utilize the Large Mask Inpainting
-              (LaMa) architecture by Samsung Research. All rights and upstream contributions are
-              gratefully acknowledged.
+              PixelRevive is released under the Apache License 2.0. Neural inpainting
+              utilizes the Large Mask Inpainting (LaMa) architecture. Foundational open-source
+              components and third-party dependencies are acknowledged and governed under their
+              respective open-source licenses as documented in the project repository.
             </p>
           </div>
         </div>
